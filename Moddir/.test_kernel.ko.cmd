@@ -1,0 +1,1 @@
+cmd_/home/zhub/test/Moddir/test_kernel.ko := /home/zhub/rtl8821/rockchip_rk3308b_sdk/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zhub/test/Moddir/test_kernel.ko /home/zhub/test/Moddir/test_kernel.o /home/zhub/test/Moddir/test_kernel.mod.o

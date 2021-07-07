@@ -1,0 +1,8 @@
+/home/zhub/test/cmakedir/build/CMakeFiles/rebuild_cache.dir
+/home/zhub/test/cmakedir/build/CMakeFiles/edit_cache.dir
+/home/zhub/test/cmakedir/build/src/CMakeFiles/edit_cache.dir
+/home/zhub/test/cmakedir/build/src/CMakeFiles/rebuild_cache.dir
+/home/zhub/test/cmakedir/build/src/CMakeFiles/hello_lib.dir
+/home/zhub/test/cmakedir/build/app/CMakeFiles/rebuild_cache.dir
+/home/zhub/test/cmakedir/build/app/CMakeFiles/edit_cache.dir
+/home/zhub/test/cmakedir/build/app/CMakeFiles/my_app.dir
